@@ -1,1 +1,1 @@
-# TriviaGame
+# Rock Paper Sissors Game
